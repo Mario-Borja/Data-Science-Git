@@ -1,4 +1,5 @@
 import numpy as np
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -13,3 +14,5 @@ data = {
 
 # Crear el DataFrame utilizando el diccionario
 df = pd.DataFrame(data)
+
+print('hellohello world') 
